@@ -28,7 +28,6 @@
 - Lot of moving tiles. Maybe too powerful to be able to move 4+ tiles at once
 - Not great once Pac-Man / all the Ghosts are destroyed
 - No card for fruit
-- "Ghost" is pretty generic
 
 ### Possible solutions (in no particular order):
 - Change draw from three to four
@@ -54,7 +53,7 @@
 | Ghost |
 --------- 
 | Virtual. |
-| Doesn't add to hand size. |
+| While held: +1 hand size. |
 | Trigger: If able, overwrite |
 | an adjacent Pac-Man with | 
 | this & skip your next turn. |
