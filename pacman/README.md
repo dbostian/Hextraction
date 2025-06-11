@@ -46,24 +46,23 @@
 ---------
 | On play: Draw four ghosts |
 | Trigger: overwrite an |
-| adjacent Ghost with this |
-| - or - move this to an | 
-| adjacent empty slot |
+| adjacent Ghost or Cherries |
+| with this -or- move this to | 
+| an adjacent empty slot |
 
 
 | Ghost |
 --------- 
 | Virtual |
-| While held: +1 hand size |
+| Does not count to hand size |
 | Trigger: If able, overwrite |
 | an adjacent Pac-Man with | 
 | this & skip your next turn. |
-| else, move to an adjacent slot |
+| Otherwise, move this to an |
+| adjacent empty slot |
 
 
 | Cherries |
 ---------
 | On destroy: take an |
 | extra turn |
-| Pac-man may overwrite this |
-| tile when moving |
