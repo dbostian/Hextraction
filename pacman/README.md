@@ -4,7 +4,7 @@
 ### Current rules:
 
 | Pac-Man |
----------
+| --------- |
 | On play: Draw three Ghosts |
 | Once per turn: Move to an |
 | adjacent empty slot |
@@ -12,7 +12,7 @@
 | adjacent ghost with this |
 
 | Ghost |
---------- 
+| --------- |
 | Virtual |
 | Mandatory once per turn: |
 | move to an adjacent empty |
@@ -43,7 +43,7 @@
 
 
 | Pac-Man |
----------
+| --------- |
 | On play: Draw four ghosts |
 | Trigger: Overwrite an |
 | adjacent Ghost or Cherries |
@@ -52,7 +52,7 @@
 
 
 | Ghost |
---------- 
+| --------- |
 | Virtual. Does not count |
 | toward hand size |
 | Trigger: If able, overwrite |
@@ -63,6 +63,6 @@
 
 
 | Cherries |
----------
+| --------- |
 | On destroy: take an |
 | extra turn |
